@@ -1,0 +1,8 @@
+huggingface_hub
+torch
+torchvision
+torchaudio
+transformers
+diffusers
+accelerate
+xformers
