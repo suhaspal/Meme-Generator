@@ -5,4 +5,4 @@ The two models are connected together by the use of Langgraph and AgentState, th
 Because I was not able to have access to a CUDA enabled GPU for today, I tried my best to train for as long as possible on an M2 Pro Mac's CPU, but the results were definitely underwhelming. I believe with more time,
 the models could have been trained much better and have produced better results.
 
-I have included all the code that was used in this process, I tried to upload the generated models as well, but I seem to have hit the file size limit on GitHub.
+I have included all the code that was used in this process. I tried to upload the generated models as well, but I seem to have hit the file size limit on GitHub. All of the models can be generated using the code provided in this repository.
